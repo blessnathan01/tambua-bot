@@ -4,7 +4,7 @@
 
 ## What it does
 
-Tambua is a swahili name meaning "realize" (in English language). The project raises awareness about child violence and increases the level of understanding related to child violence.
+Tambua is a swahili name meaning "realize" (in English language). The project raises awareness about child violence through facts and increases the level of understanding related to child violence.
 
 ## How I built it
 
